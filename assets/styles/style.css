@@ -453,7 +453,7 @@ select option,
 .btn:hover::before {
   box-shadow: none;
 }
-.btn--light {
+.btn--dark {
   background-color: #F5F8F9;
   color: #44566C;
 }

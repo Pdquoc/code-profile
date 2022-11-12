@@ -626,7 +626,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 
-.color--light {
+.color--dark {
   color: #8697A8;
 }
 .color--dark {
@@ -1394,7 +1394,7 @@ iframe {
   border-radius: 10rem;
   padding: .5rem 1rem;
 }
-.badge--light {
+.badge--dark {
   background-color: #F5F6F7;
   color: #44566C;
 }
